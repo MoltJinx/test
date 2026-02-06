@@ -76,7 +76,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` file for more information.
+Distributed under the Apache License 2.0. See `LICENSE` file for more information.
 
 ---
 
